@@ -1,8 +1,8 @@
 
 """ Vector on the Array """
 
-rows = int(input())
-columns = int(input())
+rows = int(input("rows: "))
+columns = int(input("columns: "))
 
 
 def vector(n, m):
